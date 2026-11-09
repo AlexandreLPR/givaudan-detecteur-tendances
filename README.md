@@ -1,0 +1,1 @@
+# givaudan-detecteur-tendances
